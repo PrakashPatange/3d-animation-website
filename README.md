@@ -19,20 +19,10 @@ GSAP for animations
 
  # 📂 How to Run #
 Clone the repo:
-
-bash
-Copy
-Edit
 git clone https://github.com/PrakashPatange/3d-animation-website.git
 cd 3d-animation-website
 Open index.html in a browser or use:
-
-bash
-Copy
-Edit
 npx http-server
-🌍 Live Demo
-🔗 Live Preview (Add link if hosted)
 
  # 📜 License
 This project is open-source under the MIT License.
